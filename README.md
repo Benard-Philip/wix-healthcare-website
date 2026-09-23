@@ -39,3 +39,14 @@ I handled the website structure, visual design, responsive layout, section organ
 ## Project Type
 
 Healthcare Website Design / Wix Website Design
+
+
+## Project Preview
+
+### Website Homepage
+
+![Healthcare Website Homepage](healthcare-website-homepage.png)
+
+### Website Demo
+
+[Watch the Healthcare Website Demo](healthcare-website-demo.mp4)
