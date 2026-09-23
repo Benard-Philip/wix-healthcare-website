@@ -43,7 +43,6 @@ Healthcare Website Design / Wix Website Design
 
 ## Project Preview
 
-### Project Preview
 
 ![Healthcare Website Homepage](healthcare-website-homepage.png)
 
